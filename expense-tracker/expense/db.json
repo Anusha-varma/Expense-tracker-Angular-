@@ -1,0 +1,38 @@
+{
+  "properties": [
+    {
+      "id": "1",
+      "name": "Earthy Escape"
+    },
+    {
+      "id": "2",
+      "name": "Millennium Farm House"
+    }
+  ],
+  "transactions": [
+    {
+      "id": "26c6",
+      "type": "expense",
+      "category": "other",
+      "amount": 20000,
+      "date": "2026-01-21",
+      "propertyId": "1"
+    },
+    {
+      "id": "0393",
+      "type": "expense",
+      "category": "Interior",
+      "amount": 50000,
+      "date": "2026-01-12",
+      "propertyId": "1"
+    },
+    {
+      "id": "0020",
+      "type": "income",
+      "category": "Rental",
+      "amount": 60000,
+      "date": "2026-01-03",
+      "propertyId": "1"
+    }
+  ]
+}
