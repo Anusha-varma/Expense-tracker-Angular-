@@ -1,0 +1,36 @@
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  padding: 15px;
+  background: #DEF2F1;
+  border-radius: 8px;
+}
+
+select,
+input {
+  padding: 10px;
+  border-radius: 6px;
+  border: 1px solid #2B7A78;
+  background: #FEFFFF;
+  color: #17252A;
+}
+
+button {
+  background: #2B7A78;
+  color: #FEFFFF;
+  border: none;
+  padding: 10px;
+  border-radius: 6px;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #17252A;
+}
+
+.hint {
+  font-size: 12px;
+  color: #17252A;
+}
